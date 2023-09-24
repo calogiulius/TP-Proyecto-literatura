@@ -1,0 +1,149 @@
+p {
+    padding: 0;
+    margin: 0;
+  }
+h1 {
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding: 20px;
+}
+nav ul {
+    background-color: gray;
+    width: 100%;
+    list-style-type: none;
+    text-align: center;
+}
+nav li {
+    display: inline-flex;
+}
+nav a {
+    text-decoration: none;
+    color: white;
+    padding: 10px;
+    width: 150px;
+}
+nav li:hover {
+    background-color: rgb(156, 77, 12);
+}
+.contenedor {
+    display: flex;
+    justify-content: center;
+}
+
+
+.libro {
+    width: 350px;
+    height: 250px;
+    margin-right: 40px;
+    margin-top: 70px;
+}
+.charles {
+    width: 350px;
+    height: 250px;
+    margin-left: 40px;
+    margin-top: 70px;
+
+}
+
+/* Estilos globales */
+body {
+    font-family: 'Times New Roman', Times, serif;
+    line-height: 2.6;
+    justify-content: baseline;
+    margin: 3;
+    padding: 3;
+  }
+  
+  header {
+    background-color: #00b7ff;
+    color: #0af199;
+    text-align: center;
+    padding: 1rem;
+  }
+  
+  h1 {
+    margin: 0;
+  }
+  
+  nav {
+    background-color: #444;
+    padding: 0.9rem;
+    text-align: center;
+  }
+  
+  nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  nav li {
+    display: inline-block;
+    margin: 0 1rem;
+  }
+  
+  nav a {
+    color: #ffffff;
+    text-decoration: none;
+    padding: 0.5rem 1rem;
+    border-radius: 4px;
+    transition: background-color 0.3s ease;
+  }
+  
+  nav a:hover {
+    background-color: #8d340b;
+  }
+  
+  main {
+    padding: 2rem;
+  }
+  
+  footer {
+    background-color: #333;
+    color: #ffffff;
+    text-align: center;
+    padding: 1rem;
+  }
+  
+  /* Estilos específicos para secciones */
+  section {
+    margin-bottom: 2rem;
+  }
+  
+  h2 {
+    margin-top: 0;
+    border-bottom: 1px solid #bb6565;
+    padding-bottom: 0.5rem;
+  }
+  
+  p {
+    margin-top: 0;
+  }
+  
+  /* Estilos para la tabla */
+  table {
+    border-collapse: collapse;
+    width: 100%;
+    max-width: 10000px;
+    max-height: 5000px;
+    margin: 0 auto;
+  }
+  
+  th, td {
+    border: 1px solid #d10f0f;
+    padding: 10px;
+  }
+  
+  th {
+    background-color: #8efc10;
+  }
+  
+  tr:hover {
+      background-color: #c1eb09;
+    }
+
+.div_4_img {
+    display: flex;
+    justify-content: center;
+}
