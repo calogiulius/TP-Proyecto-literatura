@@ -6,7 +6,7 @@ p {
 h1 {
     text-align: center;
     background-color: black;
-    color: white;
+    color: rgb(99, 141, 255);
     padding: 20px;
 }
 nav ul {
@@ -20,7 +20,7 @@ nav li {
 }
 nav a {
     text-decoration: none;
-    color: white;
+    color: #ebf565;
     padding: 10px;
     width: 150px;
 }
@@ -78,8 +78,8 @@ nav li:hover {
 
 /* Estilos globales */
 body {
-    font-family: 'Times New Roman', Times, serif;
-    line-height: 2.6;
+    font-family: 'Arial', Times, serif;
+    line-height: 3;
     justify-content: baseline;
     margin: 3;
     padding: 3;
@@ -114,7 +114,7 @@ body {
   }
   
   nav a {
-    color: #ffffff;
+    color: #ebf565;
     text-decoration: none;
     padding: 0.5rem 1rem;
     border-radius: 4px;
