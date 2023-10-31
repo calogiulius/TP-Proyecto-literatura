@@ -6,7 +6,7 @@ p {
 h1 {
     text-align: center;
     background-color: black;
-    color: white;
+    color: rgb(162, 213, 255);
     padding: 20px;
 }
 nav ul {
@@ -78,6 +78,7 @@ nav li:hover {
 
 /* Estilos globales */
 body {
+  background-color: #ff7c7c;
     font-family: 'Arial', Times, serif;
     line-height: 3;
     justify-content: baseline;
@@ -143,7 +144,7 @@ body {
   
   h2 {
     margin-top: 0;
-    border-bottom: 1px solid #bb6565;
+    border-bottom: 1px solid #fa8c8c;
     padding-bottom: 0.5rem;
   }
   

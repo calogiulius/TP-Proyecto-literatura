@@ -5,7 +5,7 @@ p {
 h1 {
     text-align: center;
     background-color: black;
-    color: rgb(255, 179, 93);
+    color: rgb(255, 255, 255);
     padding: 20px;
 }
 nav ul {
@@ -19,7 +19,7 @@ nav li {
 }
 nav a {
     text-decoration: none;
-    color: #ebf565;
+    color: #fffffc;
     padding: 10px;
     width: 150px;
 }
@@ -48,6 +48,7 @@ nav li:hover {
 
 /* Estilos globales */
 body {
+  background-color: #fdff80;
     font-family: 'Arial';
     line-height: 3.6;
     justify-content: baseline;
@@ -92,7 +93,7 @@ body {
   }
   
   nav a:hover {
-    background-color: #8d340b;
+    background-color: #f79d74;
   }
   
   main {

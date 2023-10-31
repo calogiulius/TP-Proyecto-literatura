@@ -78,6 +78,7 @@ nav li:hover {
 
 /* Estilos globales */
 body {
+    background-color:#78b968;
     font-family: 'Arial', Times, serif;
     line-height: 3;
     justify-content: baseline;

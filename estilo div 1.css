@@ -47,6 +47,7 @@ nav li:hover {
 }
 /* Estilos globales */
 body {
+  background-color: #ff7d41;
     font-family: 'Arial', Times, serif;
     line-height: 3;
     margin: 3;
